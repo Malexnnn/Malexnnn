@@ -53,7 +53,7 @@ Aunque me considero un amateur en el viaje de la programación, estoy comprometi
       <div align="center">
         <a href="URL_DE_TU_MUSICA_O_PROYECTO" target="_blank">
            <!-- Aquí puedes poner el logo de Nona -->
-          <img src="https://github.com/Malexnnn/Nona-/blob/main/asset%2FNona_icon.png" width="80">
+          <img src="https://raw.githubusercontent.com/Malexnnn/Nona-/main/asset/Nona_icon.png" width="80">
         </a>
         <p>
           Un proyecto de exploración musical y artística. Es un espacio para transformar emociones y experiencias en melodías, buscando consuelo y conexión a través del lenguaje universal de la música.
