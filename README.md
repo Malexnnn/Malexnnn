@@ -1,4 +1,4 @@
-## Hi there # 👋 ¡Hola! Soy José Avilés Cárdenas
+## Hi there ## 👋 ¡Hola! Soy José Avilés Cárdenas
 
 <p align="center">
   <em>"El peso es cacao, y el cacao es energía. Nada se pierde, solo cambia de piel."</em>
@@ -67,7 +67,7 @@ Aunque me considero un amateur en el viaje de la programación, estoy comprometi
 ---
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO_DE_GITHUB">
-    <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de José" />
+  <a href="https://github.com/Malexnnn">
+    <img src="https://github-readme-stats.vercel.app/api?username=Malexnnn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de José" />
   </a>
 </p>
