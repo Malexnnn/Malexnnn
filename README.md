@@ -1,4 +1,4 @@
-## Hi there ## 👋 ¡Hola! Soy José Avilés Cárdenas
+## Hi there 👋 ¡Hola! Soy José Avilés Cárdenas
 
 <p align="center">
   <em>"El peso es cacao, y el cacao es energía. Nada se pierde, solo cambia de piel."</em>
