@@ -61,7 +61,7 @@ Aunque me considero un amateur en el viaje de la programación, estoy comprometi
     <td width="50%">
       <h3 align="center">Nona 🍒</h3>
       <div align="center">
-        <a href="URL_DE_TU_MUSICA_O_PROYECTO" target="_blank">
+        <a href="https://github.com/Malexnnn/Nona-" target="_blank">
            <!-- Aquí puedes poner el logo de Nona -->
           <img src="https://github.com/Malexnnn/Nona-/blob/main/asset%2FNona_icon.png" width="80">
         </a>
