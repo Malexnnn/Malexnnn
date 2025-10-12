@@ -68,7 +68,7 @@ Aunque me considero un amateur en el viaje de la programación, estoy comprometi
         <p>
           Un proyecto de exploración musical y artística. Es un espacio para transformar emociones y experiencias en melodías, buscando consuelo y conexión a través del lenguaje universal de la música.
         </p>
-        <p><strong>Tecnologías:</strong> FL Studio, Ableton Live, y el corazón.</p>
+        <p><strong>Tecnologías:</strong> Visual Studio, Figma Make, Node, y el corazón.</p>
       </div>
     </td>
   </tr>
