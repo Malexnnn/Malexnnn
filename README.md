@@ -15,6 +15,16 @@ Aunque me considero un amateur en el viaje de la programación, estoy comprometi
 - 🎵 Fuera del código, exploro la creación musical bajo el proyecto **Nona 🍒**, un universo emocional donde transformo sentimientos en melodías.
 - 📫 Cómo contactarme: [manhalev1520@gmail.com](mailto:manhalev1520@gmail.com)
 
+```ASCII
+     /\\_/\\
+    ( o.o )   SINKO CACAO, el mero mero.
+     > ^ <   
+    /|   |\\  
+   (_|   |_)
+     ||  ||
+    (__) (__)
+```
+
 ---
 
 ### 🛠️ Mi Caja de Herramientas Tecnológicas
