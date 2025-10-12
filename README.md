@@ -1,7 +1,7 @@
 ## Hi there 👋 ¡Hola! Soy José Avilés Cárdenas
 
 <p align="center">
-  <em>"El peso es cacao, y el cacao es energía. Nada se pierde, solo cambia de piel."</em>
+  <em>"Nunca te pierdas. Recuerda, siempre podemos dar nuestra mejor cara ante la vida."</em>
 </p>
 
 ---
