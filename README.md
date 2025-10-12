@@ -12,7 +12,7 @@ Aunque me considero un amateur en el viaje de la programación, estoy comprometi
 
 - 🔭 Actualmente estoy trabajando en **Quasar-Cacaomático**, un bot de trading algorítmico que fusiona Machine Learning, análisis de sentimiento y una filosofía de operación personal.
 - 🌱 Estoy aprendiendo y profundizando en **Python, PyTorch, y el ecosistema de IA**.
-- 🎵 Fuera del código, exploro la creación musical bajo el proyecto **Nona 🍒**, un universo emocional donde transformo sentimientos en melodías.
+- 🎵 Fuera del código, exploro la complejidad de mis propias emociones bajo el proyecto **Nona 🍒**, un universo emocional donde transformo sentimientos en experiencias.
 - 📫 Cómo contactarme: [manhalev1520@gmail.com](mailto:manhalev1520@gmail.com)
 
 ```ASCII
