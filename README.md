@@ -23,23 +23,31 @@ Creo en el código como forma de arte, pero también como herramienta de supervi
 
 ---
 
-## 🛠️ Stack
-```yaml
-Frontend:
-  - React, TypeScript, Tailwind CSS, Vite
-  
-Backend:
-  - Python, FastAPI, Node.js, Supabase
-  
-AI/ML:
-  - PyTorch, Pandas, NumPy, scikit-learn
-  
-Trading:
-  - Binance API, WebSockets, TA-Lib
-  
-Workflow:
-  - Git, Linux, Docker, Figma
-```
+## 🛠️ Stack Tecnológico
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### AI/ML & Trading
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -47,9 +55,9 @@ Workflow:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🍒 [Nona](https://github.com/Malexnnn/Nona-)
+### <img src="https://raw.githubusercontent.com/Malexnnn/Nona-/main/asset/Nona_icon.png" width="28" /> [Nona](https://github.com/Malexnnn/Nona-)
 
 **Reproductor musical + Diario emocional con IA**
 
@@ -58,8 +66,12 @@ Música que abraza el alma. Chatbot conversacional, análisis de sentimiento, ea
 **Stack:** React · TypeScript · Supabase · Groq  
 **Estado:** 🟢 En producción
 
+<a href="https://github.com/Malexnnn/Nona-">
+  <img src="https://img.shields.io/badge/Ver_Proyecto-FF7A18?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 Cacaomático
 
@@ -69,6 +81,8 @@ Sistema de decisión con ML, análisis técnico y sentimiento de mercado en tiem
 
 **Stack:** Python · PyTorch · FastAPI · Binance  
 **Estado:** 🟡 En desarrollo
+
+<img src="https://img.shields.io/badge/Private_Repo-6A1B4D?style=for-the-badge&logo=github&logoColor=white" />
 
 </td>
 </tr>
