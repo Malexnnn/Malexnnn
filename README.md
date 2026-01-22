@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Malexnnn/Nona-/21da50d9dea50f5e4147660e89d44849de7d32e3/public/asset/nona-icon.svg?token=BFS4GZGED6NWZGRHK4NXXSTJOK2LE" width="200" />
+<img src="<img src="https://raw.githubusercontent.com/Malexnnn/Nona-/main/public/asset/nona-icon.svg" width="200" />" width="200" />
 # 👋 José Avilés Cárdenas
 
 ### Full-Stack Developer | AI Engineering | Trading Systems
