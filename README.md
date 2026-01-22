@@ -1,83 +1,97 @@
-## Hi there 👋 ¡Hola! Soy José Avilés Cárdenas
+<div align="center">
 
-<p align="center">
-  <em>"Nunca te pierdas. Recuerda, siempre podemos dar nuestra mejor cara ante la vida."</em>
+# 👋 José Avilés Cárdenas
+
+### Full-Stack Developer | AI Engineering | Trading Systems
+
+<p>
+  <a href="mailto:manhalev1520@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Malexnnn"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF7A18&center=true&vCenter=true&width=435&lines=Building+with+purpose;Code+%2B+Soul+%2B+Strategy" alt="Typing SVG" />
+
+</div>
 
 ---
 
-Soy un apasionado por la tecnología y el desarrollo, actualmente cursando la **Ingeniería en Tecnologías de la Información y Comunicaciones**. Mi formación como **Técnico en Electrónica Digital y Analógica** me dio una base sólida para entender cómo funciona el mundo a nivel de hardware, pero mi verdadera vocación es darle vida a ese hardware a través del software.
+## 🧠 Sobre Mí
 
-Aunque me considero un amateur en el viaje de la programación, estoy comprometido con el aprendizaje constante y la creación de soluciones que no solo sean eficientes, sino que también tengan un propósito. Creo firmemente en la tecnología como una herramienta para la expresión, la conexión y la transformación.
+Estudiante de **Ingeniería en TICs** con background en Electrónica. Construyo software que resuelve problemas reales — desde herramientas emocionales hasta sistemas de trading autónomos.
 
-- 🔭 Actualmente estoy trabajando en **Quasar-Cacaomático**, un bot de trading algorítmico que fusiona Machine Learning, análisis de sentimiento y una filosofía de operación personal.
-- 🌱 Estoy aprendiendo y profundizando en **Python, PyTorch, y el ecosistema de IA**.
-- 🎵 Fuera del código, exploro la complejidad de mis propias emociones bajo el proyecto **Nona 🍒**, un universo emocional donde transformo sentimientos en experiencias.
-- 📫 Cómo contactarme: [manhalev1520@gmail.com](mailto:manhalev1520@gmail.com)
+Creo en el código como forma de arte, pero también como herramienta de supervivencia.
 
-```ASCII
-     /\\_/\\
-    ( o.o )   SINKO CACAO, el mero mero.
-     > ^ <   
-    /|   |\\  
-   (_|   |_)
-     ||  ||
-    (__) (__)
+---
+
+## 🛠️ Stack
+```yaml
+Frontend:
+  - React, TypeScript, Tailwind CSS, Vite
+  
+Backend:
+  - Python, FastAPI, Node.js, Supabase
+  
+AI/ML:
+  - PyTorch, Pandas, NumPy, scikit-learn
+  
+Trading:
+  - Binance API, WebSockets, TA-Lib
+  
+Workflow:
+  - Git, Linux, Docker, Figma
 ```
 
 ---
 
-### 🛠️ Mi Caja de Herramientas Tecnológicas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-*... y siempre con la disposición para aprender la siguiente herramienta que el reto requiera.*
-
----
-
-### 🌟 Proyectos Anclados
+## 🚀 Proyectos
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Quasar-Cacaomático</h3>
-      <div align="center">
-        <a href="URL_DEL_REPOSITORIO_QUASAR" target="_blank">
-          <!-- Aquí puedes poner un logo o GIF del proyecto cuando lo tengamos -->
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="80">
-        </a>
-        <p>
-          Un bot de trading algorítmico con alma. Utiliza un agente de decisión multimodal que combina análisis técnico, un modelo LSTM para predicción y análisis de sentimiento del mercado en tiempo real.
-        </p>
-        <p><strong>Tecnologías:</strong> Python, PyTorch, Pandas, FastAPI, WebSockets.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Nona 🍒</h3>
-      <div align="center">
-        <a href="https://github.com/Malexnnn/Nona-" target="_blank">
-           <!-- Aquí puedes poner el logo de Nona -->
-          <img src="https://github.com/Malexnnn/Nona-/blob/main/asset%2FNona_icon.png" width="80">
-        </a>
-        <p>
-          Un proyecto de exploración musical y artística. Es un espacio para transformar emociones y experiencias en melodías, buscando consuelo y conexión a través del lenguaje universal de la música.
-        </p>
-        <p><strong>Tecnologías:</strong> Visual Studio, Figma Make, Node, y el corazón.</p>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 🍒 [Nona](https://github.com/Malexnnn/Nona-)
+
+**Reproductor musical + Diario emocional con IA**
+
+Música que abraza el alma. Chatbot conversacional, análisis de sentimiento, easter eggs interactivos.
+
+**Stack:** React · TypeScript · Supabase · Groq  
+**Estado:** 🟢 En producción
+
+</td>
+<td width="50%">
+
+### 🤖 Cacaomático
+
+**Bot de trading algorítmico multimodal**
+
+Sistema de decisión con ML, análisis técnico y sentimiento de mercado en tiempo real.
+
+**Stack:** Python · PyTorch · FastAPI · Binance  
+**Estado:** 🟡 En desarrollo
+
+</td>
+</tr>
 </table>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Malexnnn">
-    <img src="https://github-readme-stats.vercel.app/api?username=Malexnnn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de José" />
-  </a>
-</p>
+## 📊 Stats
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Malexnnn&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF7A18&icon_color=FF7A18&text_color=C9D1D9" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Malexnnn&theme=radical&hide_border=true&background=0D1117&ring=FF7A18&fire=FF7A18&currStreakLabel=FF7A18" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 *"Tu luz sigue intacta. Por favor, sigue brillando."* ∫✨
+
+📧 **manhalev1520@gmail.com**
+
+</div>
