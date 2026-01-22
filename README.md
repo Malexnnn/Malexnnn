@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Malexnnn/Malexnnn/main/cherries-banner.svg" width="200" />
+<img src="https://raw.githubusercontent.com/Malexnnn/Nona-/21da50d9dea50f5e4147660e89d44849de7d32e3/public/asset/nona-icon.svg?token=BFS4GZGED6NWZGRHK4NXXSTJOK2LE" width="200" />
 # 👋 José Avilés Cárdenas
 
 ### Full-Stack Developer | AI Engineering | Trading Systems
