@@ -73,7 +73,7 @@ Música que abraza el alma. Chatbot (Kimi/Groq), análisis de sentimiento, easte
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/AldraAV/BinaryEqualab/main/docs/favicon.svg" width="28" /> [Binary EquaLab](https://github.com/AldraAV/BinaryEqualab)
+### <img src="https://raw.githubusercontent.com/AldraAV/BinaryEqualab/main/docs/binary_icon.svg" width="28" /> [Binary EquaLab](https://github.com/AldraAV/BinaryEqualab)
 
 **Computer Algebra System (CAS) Multiplataforma**
 
