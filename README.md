@@ -107,7 +107,6 @@ Disponible en Web, Desktop (Qt) y CLI.
 
 <div align="center">
 
-### 💬 *"Tu luz sigue intacta. Por favor, sigue brillando."* ∫✨
 
 📧 **manhalev1520@gmail.com**
 
