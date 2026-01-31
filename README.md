@@ -57,7 +57,7 @@ Creo en el código como forma de arte, pero también como herramienta de supervi
 <tr>
 <td width="50%" valign="top">
 
-### 🍒 [Nona](https://github.com/AldraAV/Nona-)
+### <img src="https://raw.githubusercontent.com/AldraAV/BinaryEqualab/main/docs/favicon.svg" width="28" /> [Nona](https://github.com/AldraAV/Nona-)
 
 **Reproductor musical + Diario emocional con IA**
 
